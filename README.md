@@ -27,14 +27,15 @@ The project contains **two independent ML models**, each optimized for its targe
 - Uses **detailed clinical features**.
 - Provides **higher accuracy and deeper analysis**.
 - Implemented in:  
-  `ProMode.ipynb`
+  [ProMode.ipynb](https://github.com/Seeclik/Graduation-Project-Heart-Disease-Prediction-Web-Application/blob/main/ProMode.ipynb)
+
 
 ### 🔹 BASIC MODE
 - Intended for **non-medical users**.
 - Requires **simplified and minimal input data**.
 - Focuses on **ease of use and accessibility**.
 - Implemented in:  
-  `BasicMode.ipynb`
+  [BasicMode.ipynb](https://github.com/Seeclik/Graduation-Project-Heart-Disease-Prediction-Web-Application/blob/main/BasicMode.ipynb)
 
 Both models output a **probability score** indicating the likelihood of heart disease.
 
