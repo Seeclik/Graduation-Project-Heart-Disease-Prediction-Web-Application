@@ -37,8 +37,6 @@ The project contains **two independent ML models**, each optimized for its targe
 - Implemented in:  
   [BasicMode.ipynb](https://github.com/Seeclik/Graduation-Project-Heart-Disease-Prediction-Web-Application/blob/main/BasicMode.ipynb)
 
-Both models output a **probability score** indicating the likelihood of heart disease.
-
 ---
 
 ## 📊 Model Performance and Accuracy
@@ -81,4 +79,17 @@ Both models output a **probability score** indicating the likelihood of heart di
 - HTML
 - CSS
 - JavaScript
+---
+### 📧 Contact
+Created by
 
+* **[Khalid Alammari]**
+* **[Turki Lughbi]**
+* **[Mohammed Hantool]**
+* **[Hulayyil Faqiri]**
+
+
+
+
+Connect with me on [Linkedin](https://www.linkedin.com/in/khalid-alammari-/)
+ or Email [Khalid.A.Alammari@gmail.com]
